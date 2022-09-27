@@ -36,7 +36,7 @@ Example 1. Use neo4j-admin backup to back up a single database.
       
 Example 2. Use neo4j-admin backup to back up all databases.
 
-    ./neo4j-admin backup --backup-dir=/home/arliputraa/neo4j-enterprise-4.4.11/backup --database=”*” 
+    ./neo4j-admin backup --backup-dir=/home/arliputraa/neo4j-enterprise-4.4.11/backup --database="*"
     
 or
     
