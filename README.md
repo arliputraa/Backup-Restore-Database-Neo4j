@@ -40,7 +40,7 @@ Example 2. Use neo4j-admin backup to back up all databases.
     
 or
     
-    ./neo4j-admin backup --from=localhost:6362 --backup-dir=/home/arliputraa/neo4j-enterprise-4.4.11/backup --database=”*” 
+    ./neo4j-admin backup --from=localhost:6362 --backup-dir=/home/arliputraa/neo4j-enterprise-4.4.11/backup --database="*"
       
 * RESTORE ONLINE
 
